@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 👩🏻‍💻 I’m currently learning: 
+    🔱 Arizona State University 
+      Data Structures & Algorithsm  (CSE 310) 
+      Intro to Software Engineering (CSE 360)
+      
