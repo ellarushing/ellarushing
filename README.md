@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
  👩🏻‍💻 **I’m currently learning**:  
     🔱 Arizona State University  
-     _ Data Structures & Algorithsm  (CSE 310)   
-     _ Intro to Software Engineering (CSE 360)  
+     - Data Structures & Algorithsm  (CSE 310)   
+     - Intro to Software Engineering (CSE 360)  
       
