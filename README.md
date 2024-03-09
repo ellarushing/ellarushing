@@ -8,8 +8,5 @@ Add a gif code
 
    **I’m currently working on**: 
 -->
-
- 👩🏻‍💻 **I’m currently learning**:  
     🔱 Arizona State University  
-     - Data Structures & Algorithsm  (CSE 310)   
-     - Intro to Software Engineering (CSE 360)  <br /> <br />
+  
