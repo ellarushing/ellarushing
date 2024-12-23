@@ -9,7 +9,7 @@
 ### Langauges I'm Learning: 
 + GoLang
 + React
-+ PostgreSQL
++ Sql
 
 ### Languages I know: 
 + C/C++
